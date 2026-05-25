@@ -1,0 +1,11 @@
+.env
+.env.*
+*.bak
+node_modules/
+__pycache__/
+token.json
+credentials.json
+client_secret.json
+*.log
+venv/
+.DS_Store
